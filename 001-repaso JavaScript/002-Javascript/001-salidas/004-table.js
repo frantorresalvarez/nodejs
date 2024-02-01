@@ -1,0 +1,1 @@
+console.table("esto es un tabla");
