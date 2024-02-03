@@ -1,0 +1,1 @@
+UPDATE entradas SET titulo = 'Titulo Modificado' WHERE id = 1

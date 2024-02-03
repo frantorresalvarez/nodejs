@@ -1,0 +1,1 @@
+db.formularios.find({asunto:"Esto es el segundo correo"});
